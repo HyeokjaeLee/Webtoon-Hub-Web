@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/HyeokjaeLee/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js",
-    "main.js.map": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js.map",
-    "runtime-main.js": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/runtime-main.3c2d983a.js",
-    "runtime-main.js.map": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/runtime-main.3c2d983a.js.map",
-    "static/js/2.6aaf664c.chunk.js": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js",
-    "static/js/2.6aaf664c.chunk.js.map": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.map",
-    "static/js/3.4ae824cb.chunk.js": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js",
-    "static/js/3.4ae824cb.chunk.js.map": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js.map",
-    "index.html": "/HyeokjaeLee/Webtoon-Hub-Web/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/HyeokjaeLee/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.6aaf664c.chunk.js.LICENSE.txt": "/HyeokjaeLee/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/HyeokjaeLee/Webtoon-Hub-Web/static/media/logo.6ce24c58.svg"
+    "main.css": "/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js",
+    "main.js.map": "/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js.map",
+    "runtime-main.js": "/Webtoon-Hub-Web/static/js/runtime-main.d44f9e65.js",
+    "runtime-main.js.map": "/Webtoon-Hub-Web/static/js/runtime-main.d44f9e65.js.map",
+    "static/js/2.6aaf664c.chunk.js": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js",
+    "static/js/2.6aaf664c.chunk.js.map": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.map",
+    "static/js/3.4ae824cb.chunk.js": "/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js",
+    "static/js/3.4ae824cb.chunk.js.map": "/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js.map",
+    "index.html": "/Webtoon-Hub-Web/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.6aaf664c.chunk.js.LICENSE.txt": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Webtoon-Hub-Web/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c2d983a.js",
+    "static/js/runtime-main.d44f9e65.js",
     "static/js/2.6aaf664c.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.7e4e15fa.chunk.js"
