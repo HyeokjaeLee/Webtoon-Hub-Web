@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js",
-    "main.js.map": "/Webtoon-Hub-Web/static/js/main.7e4e15fa.chunk.js.map",
-    "runtime-main.js": "/Webtoon-Hub-Web/static/js/runtime-main.d44f9e65.js",
-    "runtime-main.js.map": "/Webtoon-Hub-Web/static/js/runtime-main.d44f9e65.js.map",
-    "static/js/2.6aaf664c.chunk.js": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js",
-    "static/js/2.6aaf664c.chunk.js.map": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.map",
-    "static/js/3.4ae824cb.chunk.js": "/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js",
-    "static/js/3.4ae824cb.chunk.js.map": "/Webtoon-Hub-Web/static/js/3.4ae824cb.chunk.js.map",
+    "main.css": "/Webtoon-Hub-Web/static/css/main.4b83477a.chunk.css",
+    "main.js": "/Webtoon-Hub-Web/static/js/main.740ddb92.chunk.js",
+    "main.js.map": "/Webtoon-Hub-Web/static/js/main.740ddb92.chunk.js.map",
+    "runtime-main.js": "/Webtoon-Hub-Web/static/js/runtime-main.01498ada.js",
+    "runtime-main.js.map": "/Webtoon-Hub-Web/static/js/runtime-main.01498ada.js.map",
+    "static/js/2.f8015fe0.chunk.js": "/Webtoon-Hub-Web/static/js/2.f8015fe0.chunk.js",
+    "static/js/2.f8015fe0.chunk.js.map": "/Webtoon-Hub-Web/static/js/2.f8015fe0.chunk.js.map",
+    "static/js/3.1f15ac3c.chunk.js": "/Webtoon-Hub-Web/static/js/3.1f15ac3c.chunk.js",
+    "static/js/3.1f15ac3c.chunk.js.map": "/Webtoon-Hub-Web/static/js/3.1f15ac3c.chunk.js.map",
     "index.html": "/Webtoon-Hub-Web/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/Webtoon-Hub-Web/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.6aaf664c.chunk.js.LICENSE.txt": "/Webtoon-Hub-Web/static/js/2.6aaf664c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Webtoon-Hub-Web/static/media/logo.6ce24c58.svg"
+    "static/css/main.4b83477a.chunk.css.map": "/Webtoon-Hub-Web/static/css/main.4b83477a.chunk.css.map",
+    "static/js/2.f8015fe0.chunk.js.LICENSE.txt": "/Webtoon-Hub-Web/static/js/2.f8015fe0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Webtoon-Hub-Web/static/media/Title.eefcad8b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d44f9e65.js",
-    "static/js/2.6aaf664c.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.7e4e15fa.chunk.js"
+    "static/js/runtime-main.01498ada.js",
+    "static/js/2.f8015fe0.chunk.js",
+    "static/css/main.4b83477a.chunk.css",
+    "static/js/main.740ddb92.chunk.js"
   ]
 }
