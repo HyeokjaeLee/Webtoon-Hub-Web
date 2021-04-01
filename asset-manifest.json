@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Webtoon-Hub-Web/static/css/main.5b6148f6.chunk.css",
-    "main.js": "/Webtoon-Hub-Web/static/js/main.d9696661.chunk.js",
-    "main.js.map": "/Webtoon-Hub-Web/static/js/main.d9696661.chunk.js.map",
-    "runtime-main.js": "/Webtoon-Hub-Web/static/js/runtime-main.6cc08bb2.js",
-    "runtime-main.js.map": "/Webtoon-Hub-Web/static/js/runtime-main.6cc08bb2.js.map",
-    "static/js/2.50ce98a6.chunk.js": "/Webtoon-Hub-Web/static/js/2.50ce98a6.chunk.js",
-    "static/js/2.50ce98a6.chunk.js.map": "/Webtoon-Hub-Web/static/js/2.50ce98a6.chunk.js.map",
-    "static/js/3.a9294a6b.chunk.js": "/Webtoon-Hub-Web/static/js/3.a9294a6b.chunk.js",
-    "static/js/3.a9294a6b.chunk.js.map": "/Webtoon-Hub-Web/static/js/3.a9294a6b.chunk.js.map",
-    "index.html": "/Webtoon-Hub-Web/index.html",
-    "static/css/main.5b6148f6.chunk.css.map": "/Webtoon-Hub-Web/static/css/main.5b6148f6.chunk.css.map",
-    "static/js/2.50ce98a6.chunk.js.LICENSE.txt": "/Webtoon-Hub-Web/static/js/2.50ce98a6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Webtoon-Hub-Web/static/media/Title.eefcad8b.ttf"
+    "main.css": "/Webtoon-Hub-mobile/static/css/main.539343c9.chunk.css",
+    "main.js": "/Webtoon-Hub-mobile/static/js/main.0c34f75f.chunk.js",
+    "main.js.map": "/Webtoon-Hub-mobile/static/js/main.0c34f75f.chunk.js.map",
+    "runtime-main.js": "/Webtoon-Hub-mobile/static/js/runtime-main.9d47c556.js",
+    "runtime-main.js.map": "/Webtoon-Hub-mobile/static/js/runtime-main.9d47c556.js.map",
+    "static/js/2.50ce98a6.chunk.js": "/Webtoon-Hub-mobile/static/js/2.50ce98a6.chunk.js",
+    "static/js/2.50ce98a6.chunk.js.map": "/Webtoon-Hub-mobile/static/js/2.50ce98a6.chunk.js.map",
+    "static/js/3.a9294a6b.chunk.js": "/Webtoon-Hub-mobile/static/js/3.a9294a6b.chunk.js",
+    "static/js/3.a9294a6b.chunk.js.map": "/Webtoon-Hub-mobile/static/js/3.a9294a6b.chunk.js.map",
+    "index.html": "/Webtoon-Hub-mobile/index.html",
+    "static/css/main.539343c9.chunk.css.map": "/Webtoon-Hub-mobile/static/css/main.539343c9.chunk.css.map",
+    "static/js/2.50ce98a6.chunk.js.LICENSE.txt": "/Webtoon-Hub-mobile/static/js/2.50ce98a6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Webtoon-Hub-mobile/static/media/Title.eefcad8b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cc08bb2.js",
+    "static/js/runtime-main.9d47c556.js",
     "static/js/2.50ce98a6.chunk.js",
-    "static/css/main.5b6148f6.chunk.css",
-    "static/js/main.d9696661.chunk.js"
+    "static/css/main.539343c9.chunk.css",
+    "static/js/main.0c34f75f.chunk.js"
   ]
 }
